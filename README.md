@@ -2,7 +2,7 @@
 
 A test script for uploading video to Linkedin. 
 # Usage
-cd main.rs then provide 
+In main.rs provide  the following
 ```rust
  TOKEN,
  person_id/organization_id
